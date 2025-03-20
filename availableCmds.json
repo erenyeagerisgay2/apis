@@ -143,6 +143,12 @@
       "author": "Dipto",
       "update": "03/21/2025",
       "status": "ON"
+    },
+{
+      "cmd": "autodl",
+      "author": "Dipto",
+      "update": "03/21/2025",
+      "status": "on"
     }
   ]
 }
