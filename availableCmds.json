@@ -17,6 +17,132 @@
       "author": "Alfred",
       "update": "03/21/2025",
       "status": "ON"
+    },
+{
+      "cmd": "balance",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "delete",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "unsend",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "ss",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "flux",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "marjia",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "profile",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "kick",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "tag",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "group",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "fblink",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "fakechat2",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "fakechat",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "clear",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "mylove",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "myfd",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "mygf",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "ytb",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "poli",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "bby",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
+    },
+{
+      "cmd": "baby",
+      "author": "ArYAN",
+      "update": "03/20/2025",
+      "status": "ON"
     }
   ]
 }
