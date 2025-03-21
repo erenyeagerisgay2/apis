@@ -209,6 +209,24 @@
       "author": "MAHABUB",
       "update": "03/21/2025",
       "status": "on"
+    },
+{
+      "cmd": "restart",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "pinterest",
+      "author": "ArYAN",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "imgur",
+      "author": "ArYAN",
+      "update": "03/21/2025",
+      "status": "on"
     }
   ]
 }
