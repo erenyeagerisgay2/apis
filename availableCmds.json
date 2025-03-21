@@ -227,6 +227,60 @@
       "author": "ArYAN",
       "update": "03/21/2025",
       "status": "on"
+    },
+{
+      "cmd": "all",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "busy",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "callad",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "daily",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "count",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "filter",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "notification",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "tiktok",
+      "author": "ArYAN",
+      "update": "03/21/2025",
+      "status": "on"
+    },
+{
+      "cmd": "tid",
+      "author": "NTkhang",
+      "update": "03/21/2025",
+      "status": "on"
     }
   ]
 }
