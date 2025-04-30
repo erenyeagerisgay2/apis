@@ -359,6 +359,12 @@
       "author": "ArYAN",
       "update": "04/21/2025",
       "status": "on"
+    },
+{
+      "cmd": "tinfo",
+      "author": "ArYAN",
+      "update": "04/30/2025",
+      "status": "on"
     }
   ]
 }
