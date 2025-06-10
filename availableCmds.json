@@ -122,7 +122,7 @@
     },
 {
       "cmd": "ytb",
-      "author": "Nyx",
+      "author": "ArYAN",
       "update": "03/21/2025",
       "status": "ON"
     },
@@ -146,7 +146,7 @@
     },
 {
       "cmd": "autodl",
-      "author": "Dipto",
+      "author": "ArYAN",
       "update": "03/21/2025",
       "status": "on"
     },
@@ -171,12 +171,6 @@
 {
       "cmd": "join",
       "author": "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
-      "update": "03/21/2025",
-      "status": "on"
-    },
-{
-      "cmd": "uid2",
-      "author": "NIL",
       "update": "03/21/2025",
       "status": "on"
     },
