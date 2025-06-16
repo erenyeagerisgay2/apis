@@ -66,6 +66,7 @@
     { "cmd": "meta", "author": "ArYAN", "update": "06/13/2025", "status": "on" },
     { "cmd": "drive", "author": "ArYAN", "update": "06/14/2025", "status": "on" },
     { "cmd": "fbcover", "author": "ArYAN", "update": "06/13/2025", "status": "on" },
-{ "cmd": "gcimage", "author": "ArYAN", "update": "06/15/2025", "status": "on" }
+{ "cmd": "gcimage", "author": "ArYAN", "update": "06/15/2025", "status": "on" },
+{ "cmd": "gemini", "author": "ArYAN", "update": "06/16/2025", "status": "on" }
   ]
 }
