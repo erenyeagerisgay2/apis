@@ -5,6 +5,42 @@
       "author": "ArYAN",
       "update": "2025-10-04",
       "status": "on"
+    },
+    {
+      "cmd": "sing",
+      "author": "ArYAN",
+      "update": "2025-10-05",
+      "status": "on"
+    },
+    {
+      "cmd": "youtube",
+      "author": "ArYAN",
+      "update": "2025-10-05",
+      "status": "on"
+    },
+    {
+      "cmd": "prompt",
+      "author": "ArYAN",
+      "update": "2025-10-05",
+      "status": "on"
+    },
+    {
+      "cmd": "imgur",
+      "author": "ArYAN",
+      "update": "2025-10-05",
+      "status": "on"
+    },
+    {
+      "cmd": "gemini",
+      "author": "ArYAN",
+      "update": "2025-10-05",
+      "status": "on"
+    },
+    {
+      "cmd": "meta",
+      "author": "ArYAN",
+      "update": "2025-10-05",
+      "status": "on"
     }
   ]
 }
